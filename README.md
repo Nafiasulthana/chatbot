@@ -338,7 +338,7 @@ Contributions are welcome.
 2. Make your changes with clear, focused commits
 3. Open a pull request describing what changed and why
 
-Please open an issue first for larger changes so the approach can be discussed
+Please open an issue first for larger changes so the approach can be discussed.
 
 ---
 
