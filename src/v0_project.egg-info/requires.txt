@@ -1,0 +1,9 @@
+langchain>=1.2.15
+langchain-community>=0.4.1
+langchain-text-splitters>=1.1.2
+transformers>=4.40.0
+torch>=2.2.0
+accelerate>=0.28.0
+pypdf>=6.10.2
+python-dotenv>=1.2.2
+streamlit>=1.56.0

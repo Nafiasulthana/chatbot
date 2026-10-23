@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: v0-project
+Version: 0.1.0
+Requires-Python: >=3.11
+Requires-Dist: langchain>=1.2.15
+Requires-Dist: langchain-community>=0.4.1
+Requires-Dist: langchain-openai>=1.2.0
+Requires-Dist: langchain-text-splitters>=1.1.2
+Requires-Dist: pinecone>=6.0.0
+Requires-Dist: pypdf>=6.10.2
+Requires-Dist: python-dotenv>=1.2.2
+Requires-Dist: streamlit>=1.56.0

@@ -1,0 +1,49 @@
+:root{
+    --bg:#0a0a0a;
+    --sidebar:#111111;
+    --card:#171717;
+
+    --yellow:#facc15;
+    --yellow-dark:#eab308;
+
+    --text:#ffffff;
+    --muted:#a1a1aa;
+
+    --border:#27272a;
+}
+
+body{
+    background:var(--bg);
+    color:var(--text);
+}
+
+.metric-card{
+    background:var(--card);
+    padding:20px;
+    border-radius:18px;
+    border:1px solid var(--border);
+}
+
+.metric-card h3{
+    color:var(--muted);
+    font-size:14px;
+}
+
+.metric-card h1{
+    color:var(--yellow);
+    margin-top:10px;
+}
+
+.table-container{
+    background:var(--card);
+    border-radius:18px;
+    padding:20px;
+}
+
+.skill-tag{
+    background:var(--yellow);
+    color:black;
+    padding:4px 10px;
+    border-radius:20px;
+    font-size:12px;
+}
